@@ -1,4 +1,4 @@
-/*Limppar formatações padrões*/
+/*Limpar formatações padrões*/
 *	{
 	margin: 0;
 	padding: 0;
@@ -17,9 +17,11 @@ body {
 #logo, #area-menu	{
 	padding: 10px;
 }
+/*
 #caixa-pesquisa	{
 	position:;
 }
+*/
 #area-principal	{
 	width:920px;
 	margin:0 auto;
@@ -28,7 +30,7 @@ body {
 #area-postagens	{
 	width: 660px;
 	float: left;
-	background-color:;
+	/*background-color:;*/
 }
 #area-lateral	{
 	width: 240px;
