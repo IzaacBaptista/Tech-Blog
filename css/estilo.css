@@ -1,0 +1,98 @@
+/*Limppar formatações padrões*/
+*	{
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-size: 1em;/*1em = 16px*/
+	font-family:"Trebuchet MS", Helvetica, sans-serif; 
+	background: #E6E6E6;
+}
+#area-cabecalho	{
+	background-color: #F7B600;
+	padding: 15px;
+	text-align: center;
+	width: 100%;
+}
+#logo, #area-menu	{
+	padding: 10px;
+}
+#caixa-pesquisa	{
+	position:;
+}
+#area-principal	{
+	width:920px;
+	margin:0 auto;
+	padding: 15px;
+}
+#area-postagens	{
+	width: 660px;
+	float: left;
+	background-color:;
+}
+#area-lateral	{
+	width: 240px;
+	float: right;
+}
+#rodape	{
+	clear: both;
+	text-align: center;
+	padding: 15px;
+	background-color: #CCC; 
+}
+.postagem	{
+	padding: 20px;
+	margin-bottom: 20px;
+	background: #FFF
+}
+.branco{
+	color:#FFF;
+}
+.data-postagem	{
+	font-size: 0.8em;
+	border-bottom: 1px solid #F4F4F4;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	display: block; 
+}
+.conteudo-lateral	{
+	background: #FFF;
+	padding:10px;
+	margin-bottom: 20px;
+
+}
+.postagem-lateral	{
+	font-size: 0.8em;
+	padding: 5px;
+	/*border-bottom: 1px dotted #CCC;*/
+}
+a {
+	text-decoration: none;
+}
+a:link, a:visited {
+	color:#F7B600;
+}
+a:hover	{
+	text-decoration: underline;
+}
+#area-cabecalho a:link, #area-cabecalho a:visited {
+	color:#FFF;
+	padding: 8px 12px;
+}
+#area-cabecalho a:hover	{
+	color:#F7B600;
+	background-color: #FFF;
+	text-decoration:none;
+}
+h1	{
+	color:#4E4E4E;
+	font-size: 2.5em;
+}
+h2, h4	{
+	color:#F7B600;
+}
+h3	{
+	color:#565656;
+	background: #CCC;
+	padding: 5px;
+}
